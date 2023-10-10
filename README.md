@@ -14,7 +14,7 @@
 <a href="https://twitter.com/9b9_engineer" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9b9_engineer" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/naveen-sundriyal" target="_blank">
+<a href="[https://linkedin.com/in/naveen-sundriya](https://www.linkedin.com/in/naveen-sundriyal-44a5231b8/)l" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-sundriyal" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/nabda" target="_blank">
