@@ -18,16 +18,13 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-sundriyal" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/nabda" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nabda" height="30" width="40" />
+<img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="nabda" height="30" width="40" />
 </a>
 <a href="https://codeforces.com/profile/nabbu" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nabbu" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/naveen_engineer" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen_engineer" height="30" width="40" />
-</a>
-<a href="https://discord.gg/nb_da" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nb_da" height="30" width="40" />
 </a>
 </p>
 
