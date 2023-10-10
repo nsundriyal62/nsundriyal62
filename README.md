@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="coding" width="720" height="480" />
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="coding" width="520" height="180" />
 </p>
